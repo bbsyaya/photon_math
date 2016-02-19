@@ -1,0 +1,7 @@
+{
+  "name": "photon_math",
+  "author": "Prashant Ravi",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "A simple library that contains various math functions for photon"
+}
