@@ -4,9 +4,8 @@
 using namespace std;
 
 
-
+//more functions shall be added to photon_math
 class photon_math {
-    //int a[], size;
   public:
     int add_nos(int[],int);
 };
